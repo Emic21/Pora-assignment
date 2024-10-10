@@ -1,0 +1,12 @@
+body{font-family: 'Courier New', Courier, monospace;
+color: rgb(12, 12, 12); background-color: rgb(211, 203, 218);
+}
+a{color: aliceblue;
+
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover, :active{
+    color: #eee;
+}
